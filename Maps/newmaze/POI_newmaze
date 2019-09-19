@@ -1,0 +1,103 @@
+NEW MAZE POI
+
+OR HOME_BASE // taken from robot nav goal
+position: 
+      x: 0.472689563202
+      y: -0.103386375288
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.993459994705
+      w: 0.114180729198
+
+FB HOME_BASE //
+position: 
+      x: 0.145138803498
+      y: -0.98593977007
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.0634763343814
+      w: 0.997983344036
+
+HALL oF MIRRORS HOGWARTS
+position: 
+      x: 2.34199889835
+      y: -0.113367032536
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.318006025648
+      w: 0.94808869187
+
+OR ASGARD
+position: 
+      x: 3.04768143228
+      y: 3.68635218292
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.225473544982
+      w: 0.974249290743
+
+FB ASGARD
+position: 
+      x: 3.52573534
+      y: 4.63802048136
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.00164506003534
+      w: 0.999998646888
+
+position: 
+      x: 3.43070746213
+      y: 4.47182179057
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.102529710478
+      w: 0.994729942482
+
+
+AMAZON 1
+position: 
+      x: 3.49196682083
+      y: 1.46835208588
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: -0.622111068166
+      w: 0.782928999888
+
+AMAZON 2
+position: 
+      x: 3.19241683655
+      y: 2.51071057157
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0614284510769
+      w: 0.998111489463
+
+OR HOMEBASE
+position: 
+      x: 0.0930677754823
+      y: 0.036674657878
+      z: 0.0
+    orientation: 
+      x: 0.0
+      y: 0.0
+      z: 0.0445601913208
+      w: 0.999006701354
+
+
+
